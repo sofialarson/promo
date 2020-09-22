@@ -1,0 +1,26 @@
+h1 {color: #363636;
+font-size: 40px;
+font-family: georgia
+}
+
+h2 {color: #363636;
+font-family: georgia;
+text-transform: uppercase}
+
+h3 {color: #363636;
+font-family:georgia}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.film-background {
+  background-image: url("stripes.png");
+  background-size: 1300px, 600px;
+  background-position-y: 200px;
+  background-position-x: 0px;
+  background-repeat: no-repeat;
+}
